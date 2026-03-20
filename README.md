@@ -1,2 +1,3 @@
-# open-security-scanner-pjoj
-Security vulnerability scanner for modern development workflows
+# Open Security Scanner Pjoj
+
+A security vulnerability scanner for modern development workflows.
